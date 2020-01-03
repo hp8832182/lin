@@ -1,2 +1,2 @@
 # lin
-learn Python 
+learn python 
